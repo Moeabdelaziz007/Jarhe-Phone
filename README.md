@@ -1,6 +1,7 @@
 # Jarhe-Phone
 
 This project includes a simple JavaScript example with ESLint for linting and Jest for testing.
+It now also contains a small front‑end website demo.
 
 ## Setup
 
@@ -26,3 +27,6 @@ Run the Jest test suite:
 npm test
 ```
 
+## Front-end demo
+
+Open `index.html` in your browser to explore a red and black landing page with a hero section, feature highlights, and contact information.
